@@ -211,5 +211,5 @@ with tab_eval:
 st.markdown("---")
 
 st.caption("Dataset: [Kaggle](https://www.kaggle.com/datasets/aprabowo/indonesia-tourism-destination/data)")
-st.caption("Source Code: [Github](https://github.com/labibaadinda/surabaya-tourism-destination-recommendation-system)")
+st.caption("Source Code: [Github](https://github.com/labibaadinda/recommendation-system-applied-content-based-method.git)")
 
